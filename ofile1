@@ -1,2 +1,7 @@
 import java.util.Scanner;
 
+publi class Main{
+	public static void main(String[] args){
+	}
+}
+
